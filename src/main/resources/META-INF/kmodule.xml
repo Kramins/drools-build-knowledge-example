@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kmodule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://www.drools.org/xsd/kmodule">
+
+    <kbase packages="org.rules.helloworld1">
+        <ksession name="HelloWorld1KS"/>
+    </kbase>
+    <kbase packages="org.rules.helloworld2">
+        <ksession name="HelloWorld2KS"/>
+    </kbase>
+
+
+</kmodule>
